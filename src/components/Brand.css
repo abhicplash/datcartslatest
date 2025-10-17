@@ -78,13 +78,14 @@
   position: absolute;
   left: 0;
   top: 0.3rem;
-  width: 4px;
-  height: 4px;
+  width: 8px;
+  height: 8px;
   background: #e5c925;
   border-radius: 50%;
   display: inline-block;
   margin-right: 0.7rem;
-  border: 7px solid #1db954;
+  border: 7px solid #01200c;
+  box-shadow: 0px 0px 3px 0.2px #848383;
 }
 
 .brand-how-desc {

@@ -16,10 +16,7 @@ const Footer = () => (
         <div className="footer-logo-exact">
           <img src={logo} alt="" className="Footer-Logo" />
         </div>
-        <div className="footer-desc-exact">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do <br />
-          eiusmod tempor incididunt
-        </div>
+        <div className="footer-desc-exact">Revolutionizing Retail Sector</div>
       </div>
       <br />
       <div className="footer-divide" />
